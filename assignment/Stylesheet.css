@@ -7,4 +7,11 @@ header{
 main{
   background-color: lightgray;
   text-align: center;
+  padding: 1em
+}
+
+body{
+  background-image: url(record.png);
+  background-repeat: repeat;
+  margin: 0;
 }
